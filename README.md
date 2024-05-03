@@ -1,4 +1,4 @@
-# 🏏 Data 2 -Cricket Data Cleaning, Transformation, and Analysis 
+#  Data 2 -Cricket Data Cleaning, Transformation, and Analysis 
 
 This project is the second in a series on Data & AI. It demonstrates advanced data cleaning, transformation, and analysis techniques on cricket data using Python and pandas. The notebook explores various methods to handle and prepare the dataset for further analysis and visualization.
 
